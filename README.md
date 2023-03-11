@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=ZEP-Script&fontAlignY=40&fontSize=100&desc=&descAlignY=65&animation=twinkling)
+
 # ZEP Script로 메타버스 개발 맛보기
 - 목표
   - 컨텐츠 프로그래밍에 대한 기본적인 이해
@@ -21,3 +23,5 @@
 - 가상 세계에서는 건물을 짓는데 돈도 시간도 많이 들지 않는다.
   - 실제 건물을 짓는 것과는 달리 혼자서도 할 수 있고 접근성도 높다.
 - 상상하는 무엇이든 쉽게 만들 수 있다.
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
